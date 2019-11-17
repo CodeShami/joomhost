@@ -356,14 +356,14 @@ color: #2f3f54;
 .reviews-slider .slick-list{
 	margin: 0 -50px;
 }
-.reviews-slider .slick-track{
+.reviews-slider .slick-slide{
 	margin: 0 50px;
+	padding-bottom: 70px;
 }
 .reviews-slider .slick-dots{
 	list-style: none;
 	display: flex;
 	justify-content: center;
-	margin-top: 50px;
 }
 .reviews-slider .slick-dots li{
 	margin: 0 8px;
