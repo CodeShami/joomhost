@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+.sass-cache
+node_modules
